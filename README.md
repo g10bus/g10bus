@@ -6,7 +6,7 @@
      
   <p><strong>I'm a Backend Developer </strong></p>
   <p>I’m currently learning Python, FastApi, Django, PostgreSQL, MySQL</p>
-  <p>he/him</p>
+
   </td>
   
   <td valign="top" align="center">
