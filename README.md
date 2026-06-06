@@ -5,7 +5,7 @@
       <h1>Hi, I'm Gleb 👋</h1>
      
   <p><strong>I'm a Backend Developer </strong></p>
-  <p>I’m currently learning Python, FastApi, Django, PostgreSQL, MySQL</p>
+  <p>I’m currently learning Python, FastApi, Django, PostgreSQL, MySQL, Docker</p>
 
   </td>
   
